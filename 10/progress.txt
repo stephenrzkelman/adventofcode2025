@@ -243,3 +243,67 @@ Queue Length:   28
 
 Queue Length:   19920018
 [and counting ...]
+
+#################
+# Starting @ 83 #
+#################
+
+Queue Length:   617093
+1       press_count: 132        lap: 68.58130289999826
+
+Queue Length:   54
+2       press_count: 218        lap: 0.10969650000333786
+
+Queue Length:   2367
+3       press_count: 85 lap: 0.07452309998916462
+
+Queue Length:   115
+4       press_count: 240        lap: 0.054914999986067414
+
+Queue Length:   2292
+5       press_count: 129        lap: 0.18473399999493267
+
+Queue Length:   43493
+6       press_count: 135        lap: 1.615767000010237
+
+Queue Length:   24
+7       press_count: 215        lap: 0.0034720999974524602
+
+Queue Length:   10
+8       press_count: 181        lap: 0.005494999990332872
+
+Queue Length:   21
+9       press_count: 46 lap: 0.0009151999984169379
+
+Queue Length:   1
+10      press_count: 31 lap: 0.0002334000018890947
+
+Queue Length:   4291
+11      press_count: 112        lap: 0.26129199999559205
+
+Queue Length:   750
+12      press_count: 51 lap: 0.05355749999580439
+
+Queue Length:   49
+13      press_count: 63 lap: 0.004291799996281043
+
+Queue Length:   166
+14      press_count: 206        lap: 0.014961299995775335
+
+Queue Length:   44
+15      press_count: 244        lap: 0.036073199997190386
+
+Queue Length:   35
+16      press_count: 77 lap: 0.00236169999698177
+
+Queue Length:   19
+17      press_count: 159        lap: 0.0005664999916916713
+
+Queue Length:   366
+18      press_count: 60 lap: 0.023351399999228306
+
+Queue Length:   33
+19      press_count: 38 lap: 0.004645300010452047
+
+Queue Length:   91
+20      press_count: 34 lap: 0.00259869999717921
